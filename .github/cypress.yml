@@ -23,7 +23,7 @@ with:
 -name: Install dependencies
 run: npm ci
 
--name: Run Cypress tests
+-name: Run braveTestHeadless
 run: npm run braveTestHeadless
 continue-on-error: true   #  IMPORTANT
 
