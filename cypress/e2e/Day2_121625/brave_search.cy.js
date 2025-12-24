@@ -23,7 +23,7 @@ describe('Brave Search Functionality', () => {
         })
         //for workflow
     })//end of test 1
-
+    
 })//end of describe suite
 
 
