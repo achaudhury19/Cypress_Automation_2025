@@ -9,7 +9,7 @@
   "scripts": {
     "braveTest": "npx cypress run --headed --browser chrome --spec 'cypress/e2e/Day2_121625/brave-search-loop.cy.js'",
     "uspsTest": "npx cypress run --headed --browser chrome --spec 'cypress/e2e/Action_Item_10/usps-invalid-tracking-number.cy.js'",
-    "braveTestHeadless": "npx cypress run --browser chrome --spec 'cypress/e2e/Day2_121625/brave-search.cy.js'"
+    "braveTestHeadless": "npx cypress run --browser chrome --spec 'cypress/e2e/Day2_121625/brave_search.cy.js'"
 
   
   
